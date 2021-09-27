@@ -1,16 +1,16 @@
 #vt100 .ansiDefR {
-  color:            #ffffff;
+  color:            #04A664;
 }
 
 #vt100 .bgAnsiDefR {
-  background-color: #000000;
+  background-color: #141729;
 }
 
 #vt100 #scrollable.inverted .ansiDefR {
-  color:            #000000;
+  color:            #141729;
 }
 
 #vt100 #scrollable.inverted .bgAnsiDefR {
-  background-color: #ffffff;
+  background-color: #04A664;
 }
 
